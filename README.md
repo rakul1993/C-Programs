@@ -23,13 +23,13 @@ These C porgrams focus on the principles, theory and features of multi-user, mul
 
 ####Part2:
 1. ansi.h:
-2. createPeople.c:
-3. fileDiscriptor.c:
-4. findPerson.c:
-5. originalQsort.c:
-6. person.h:
-7. qsortDemo.c:
-8. test.c:
+2. createPeople.c: creates randomly generated persons records
+3. fileDiscriptor.c: creates specified file and writes specified contents using file descriptors
+4. findPerson.c: Program will prompt you for a record number using random access it will retrieve the specified record
+5. originalQsort.c: This program uses the PERSON data structure used in createPerson.c and findPerson.c to sort and diplays the data based on specified field.
+6. person.h: Person structure
+7. qsortDemo.c: Same as originalQsort.c but uses file descriptors rather than FILE pointers
+8. test.c: creates specified file and writes specified contents using file pointers
 
 ####Part3:
 1. dirStat.c:
