@@ -1,7 +1,6 @@
 /*
    File: fileNameDemo3.c
    Course: CTEC102
-   Author: Leon King,J230,x4200
    Date: Tuesday February 13, 2007
    Description: Using wordexp to match file names
                 Enter any shell expression to expand a name, ie:
