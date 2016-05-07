@@ -13,13 +13,13 @@ These C porgrams focus on the principles, theory and features of multi-user, mul
 
 ####Part2:
 1. catDemo3.c: Another getopt program used to simulate some of the functionalities of the cat command
-2. fread.c: 
-3. octalDump.c:
+2. fread.c: Reads the contents of a file created called freadDemo.c
+3. octalDump.c: Another getopt program used to simulate some of the functionalities of the octalDump command
 
 
 ###Lab3
 ####Part1:
-1. getOptLong.c:
+1. getOptLong.c: A C program that capsures and displays the following flags for the egrep command "egrep  -A num  -B num  -c  –i   -v     		pattern   fileList". Also supports long options.
 
 ####Part2:
 1. ansi.h:
