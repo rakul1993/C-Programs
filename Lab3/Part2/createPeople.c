@@ -1,7 +1,6 @@
 /*
    File: createPeople.c
    Course: CENG411
-   Author: Leon King,J230,x4200
    Date: Monday January 29, 2007
    */
 
