@@ -19,7 +19,7 @@ int main(int argc, char * argv[],char * envp[])
 
   //write to the files
   for(i=1;i<argc;i++)
-    write(fdArray[i],"wagwan world!!!!\n", sizeof(buffer));
+    write(fdArray[i],"Greetings world!!!!\n", sizeof(buffer));
 
   //close the files
   for(i=1;i<argc;i++)
