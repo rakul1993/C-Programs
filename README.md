@@ -39,8 +39,7 @@ These C porgrams focus on the principles, theory and features of multi-user, mul
 
 ####Part4:
 1. wordEXP.c: This program reads in a shell pattern for a file name and uses wordexp to expand it. Then stat each of the file names in the expansion and count each of the following features: files  that are executable by any of user, group or other, hidden files  (files who’s name starts with a period), directories, files where the last modified time is equal to the last accessed time.
-2. wordexpDemo.c: Using wordexp to and stat to match file names. Enter any shell expression to expand a name, ie:
-                        [a-m]*.txt   ~/???.c   $TZ/*    $(whoami)/abc
+2. wordexpDemo.c: Using wordexp to and stat to match file names. Enter any shell expression to expand a name, ie: [a-m]*.txt   ~/???.c   $TZ/*    $(whoami)/abc
 3. rand.c: - 
 
 
