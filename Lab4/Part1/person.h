@@ -2,7 +2,6 @@
 /*
    File: person.h
    Course: CENG411
-   Author: Leon King,J230,x4200
    Date: Thursday Feb 07, 2008   08:31 AM
 */
 #ifndef _person_h
