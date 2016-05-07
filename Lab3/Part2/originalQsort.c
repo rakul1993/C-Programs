@@ -1,6 +1,5 @@
 /*
 File: qsortDemo.c Course: CENG251
-Author: Prof. Leon King,J230,x4200
 Date: Monday Feb 09, 2015   14:43 PM
 
 Based on the employee sorting demo in Robbins, Example 6.2.1.1 
