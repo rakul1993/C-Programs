@@ -1,7 +1,5 @@
 /*
    File: ansi.h
-   Course: CTEC102
-   Author: Leon King
    Date: Tuesday January 17, 2006
    Description:  Macros for ansi terminal codes
    */
