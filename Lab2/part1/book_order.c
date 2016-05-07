@@ -1,7 +1,6 @@
 /*
    File: book_order.c
    Course: CENG251
-   Author: Prof. Leon King,J230,x4200
    Date: Sunday Jan 18, 2015   21:58 PM
 */
 
