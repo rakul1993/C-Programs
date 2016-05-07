@@ -32,18 +32,15 @@ These C porgrams focus on the principles, theory and features of multi-user, mul
 8. test.c: creates specified file and writes specified contents using file pointers
 
 ####Part3:
-1. dirStat.c:
-2. displayDirDemo.c:
-3. fstatDemo.c:
-4. group.c:
+1. dirStat.c: This program reads through the current directory and prints out the file name, the name of the owner, and the group name ownership of the file.
+2. displayDirDemo.c: Displays directory file belongs to.
+3. fstatDemo.c: Displays file metadata.
+4. group.c: Prints out a list of groups and their members 
 
 ####Part4:
 1. wordEXP.c:
 2. wordexpDemo.c:
 3. rand.c:
-
-####Temp:
-1. wordEXP.c:
 
 
 ###Lab4
