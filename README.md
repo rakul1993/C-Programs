@@ -12,8 +12,8 @@ These C porgrams focus on the principles, theory and features of multi-user, mul
 2. book_order.c: Adds and modifies book elements to the BOOK_ORDER structure and creates an octal dump file of the contents
 
 ####Part2:
-1. catDemo3.c:
-2. fread.c:
+1. catDemo3.c: Another getopt program used to simulate some of the functionalities of the cat command
+2. fread.c: 
 3. octalDump.c:
 
 
