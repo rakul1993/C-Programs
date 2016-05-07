@@ -1,5 +1,4 @@
 /* File:  group.c
-   Authro: Prof L. King
    Descriptions:   Prints out a list of groups 
                    and their members */
 
