@@ -1,7 +1,6 @@
 /*
    File: catDemo3.c
    Course: CENG251
-   Author: Prof. Leon King,J230,x4200
    Date: Tuesday Jan 27, 2015   12:48 PM
 */
 
