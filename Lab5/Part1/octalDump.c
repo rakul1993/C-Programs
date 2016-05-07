@@ -2,7 +2,6 @@
 /*
    File: octalDump.c
    Course: CENG411
-   Author: Leon King,J230,x4200
    Date: Sunday Feb 22, 2015   10:25 AM
 */
  
