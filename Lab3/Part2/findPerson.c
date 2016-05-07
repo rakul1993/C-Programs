@@ -1,7 +1,5 @@
 /*
    File: findPerson.c
-   Course: CENG411
-   Author: Leon King,J230,x4200
    Date: Wednesday Feb 03, 2010   21:32 PM
  
    Program will prompt you for a record number
