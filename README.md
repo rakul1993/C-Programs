@@ -39,41 +39,41 @@ These C porgrams focus on the principles, theory and features of multi-user, mul
 
 ####Part4:
 1. wordEXP.c: This program reads in a shell pattern for a file name and uses wordexp to expand it. Then stat each of the file names in the expansion and count each of the following features: files  that are executable by any of user, group or other, hidden files  (files who’s name starts with a period), directories, files where the last modified time is equal to the last accessed time.
-2. wordexpDemo.c: Using wordexp to and stat to match file names. Enter any shell expression to expand a name, ie: [a-m]*.txt   ~/???.c   $TZ/*    $(whoami)/abc
+2. wordexpDemo.c: Using wordexp to and stat to match file names. Enter any shell expression to expand a name, ie: [a-m]*.txt ~/???.c   $TZ/*    $(whoami)/abc
 3. rand.c: - 
 
 
 ###Lab4
 ####Part1:
-1. createPeople.c:
-2. crypt.c:
-3. findPerson.c:
-4. person.h:
+1. createPeople.c: Same as specified in Lab3 part 2
+2. crypt.c: Sample password encryption using crypt
+3. findPerson.c: Same as specified in Lab3 part 2
+4. person.h: Same as specified in Lab3 part 2
 
 ####Part2:
-1. 2.c:
-2. crypt.c:
-3. fGetPWnam.c:
-4. group.c:
-5. lookupPassword.c:
-6. smaple1.c:
-7. searchPassword.c:
+1. 2.c:This program enables users to enter a group name and a string to use as salt. Then the program extract all the password records for the memebers of that group; encryps the GECOS field and stores the rcords in a file. 
+2. crypt.c: -
+3. fGetPWnam.c: Read the password record froma specified file.
+4. group.c: -
+5. lookupPassword.c: Concatinates passwd and uid field and seaches the passwd file.
+6. smaple1.c: copies contents of group file to a new file
+7. searchPassword.c: search and identify a user and thier password, and reject bad combinations  
 
 ####Part3:
-1. question3a.c:
-2. question3b.c:
-3. question3c.c:
+1. question3a.c: a signal handler for SIGUSR1 what uses popen to run a shell command that determines the number of processes on the system. Print that value out to the terminal.  
+2. question3b.c: Open two files at the beginning of the program. When you send the program SIGINT (<ctrl>c) have it display the real names of all the open files in the directory /proc/pid/fd using readdir.
+3. question3c.c: Use SIGHUP to reinitialize a program.
 
 
 ###Lab5
 ####Part1:
-1. octalDump.c:
+1. octalDump.c: 
 
 ####Part2:
-1. orphanProcess.c:
-2. reapingProcess.c:
-3. sample.c:
-4. zombieProcess.c:
+1. orphanProcess.c: This short program that creates a single child. Have the main process die right away but leave the child still executing in an infinite loop. 
+2. reapingProcess.c: This short program creates a single child. The child will output its process id and the name and exit  with a status code. The parent will wait for child to die and display status.
+3. sample.c: -
+4. zombieProcess.c: This program creates a single child. The child process dies right away but leaves  the parent running in a loop or an extended sleep.
 
 ####Part3:
 1. 1.c:
