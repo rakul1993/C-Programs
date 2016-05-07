@@ -2,7 +2,6 @@
    File: crypt.c
    Purpose: Demo of simple cryptology.   
    Course: CENG411
-   Author: Leon King,J230,x4200
    Date: Monday Mar 14, 2011   08:29 AM
    Note:  Must be compiled with -lcrypt to bring in the cryptology library
 */
