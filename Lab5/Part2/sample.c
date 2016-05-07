@@ -1,7 +1,6 @@
 /*
    File: zombie.c
    Course: CENG411
-   Author: Prof. Leon King,007,007
    Date: Tuesday Apr 22, 2014   09:14 AM
    
    Based on forkDemo3.  The state of the child should be Z.
