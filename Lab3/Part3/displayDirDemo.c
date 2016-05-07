@@ -1,7 +1,6 @@
 /*
    File: displayDirDemo.c
    Course: CTEC102
-   Author: Leon King,J230,x4200
    Date: Sunday March 18, 2007
    */
  
